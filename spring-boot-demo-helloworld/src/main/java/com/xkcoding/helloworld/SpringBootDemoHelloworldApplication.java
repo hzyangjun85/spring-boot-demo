@@ -40,5 +40,6 @@ public class SpringBootDemoHelloworldApplication {
 			who = "World";
 		}
 		return StrUtil.format("Hello, {}! Welcome to the world of Spring Boot.", who);
+		
 	}
 }
