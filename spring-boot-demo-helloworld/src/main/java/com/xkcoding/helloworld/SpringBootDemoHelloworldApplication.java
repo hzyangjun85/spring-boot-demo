@@ -39,6 +39,6 @@ public class SpringBootDemoHelloworldApplication {
 		if (StrUtil.isBlank(who)) {
 			who = "World";
 		}
-		return StrUtil.format("Hello, {}! Welcome to the world of Spring Boot.", who);
+		return StrUtil.format("Hello, {}!!! Welcome to the world of Spring Boot.", who);
 	}
 }
