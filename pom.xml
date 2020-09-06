@@ -8,46 +8,46 @@
   <artifactId>spring-boot-demo</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <modules>
-    <module>spring-boot-demo-helloworld</module>
-    <module>spring-boot-demo-properties</module>
-    <module>spring-boot-demo-actuator</module>
-    <module>spring-boot-demo-admin</module>
-    <module>spring-boot-demo-logback</module>
-    <module>spring-boot-demo-log-aop</module>
-    <module>spring-boot-demo-exception-handler</module>
-    <module>spring-boot-demo-template-freemarker</module>
-    <module>spring-boot-demo-template-thymeleaf</module>
-    <module>spring-boot-demo-template-beetl</module>
-    <module>spring-boot-demo-template-enjoy</module>
-    <module>spring-boot-demo-orm-jdbctemplate</module>
-    <module>spring-boot-demo-orm-jpa</module>
-    <module>spring-boot-demo-orm-mybatis</module>
-    <module>spring-boot-demo-orm-mybatis-mapper-page</module>
-    <module>spring-boot-demo-orm-mybatis-plus</module>
-    <module>spring-boot-demo-orm-beetlsql</module>
-    <module>spring-boot-demo-upload</module>
-    <module>spring-boot-demo-cache-redis</module>
-    <module>spring-boot-demo-cache-ehcache</module>
-    <module>spring-boot-demo-email</module>
-    <module>spring-boot-demo-task</module>
-    <module>spring-boot-demo-task-quartz</module>
-    <module>spring-boot-demo-task-xxl-job</module>
-    <module>spring-boot-demo-swagger</module>
-    <module>spring-boot-demo-swagger-beauty</module>
-    <module>spring-boot-demo-rbac-security</module>
-    <module>spring-boot-demo-rbac-shiro</module>
-    <module>spring-boot-demo-session</module>
-    <module>spring-boot-demo-oauth</module>
-    <module>spring-boot-demo-social</module>
+    <module>spring-boot-demo-helloworld</module> <!-- done -->
+    <module>spring-boot-demo-properties</module> <!-- done -->
+    <module>spring-boot-demo-actuator</module> <!-- done -->
+    <module>spring-boot-demo-admin</module> <!-- done -->
+    <module>spring-boot-demo-logback</module> <!-- done -->
+    <module>spring-boot-demo-log-aop</module> <!-- done -->
+    <module>spring-boot-demo-exception-handler</module> <!-- done -->
+    <module>spring-boot-demo-template-freemarker</module> <!-- done -->
+    <module>spring-boot-demo-template-thymeleaf</module> <!-- done -->
+    <module>spring-boot-demo-template-beetl</module> <!-- done -->
+    <module>spring-boot-demo-template-enjoy</module> <!-- done -->
+    <module>spring-boot-demo-orm-jdbctemplate</module> <!-- done -->
+    <module>spring-boot-demo-orm-jpa</module> <!-- done -->
+    <module>spring-boot-demo-orm-mybatis</module> <!-- done -->
+    <module>spring-boot-demo-orm-mybatis-mapper-page</module> <!-- done -->
+    <module>spring-boot-demo-orm-mybatis-plus</module> <!-- done -->
+    <module>spring-boot-demo-orm-beetlsql</module> <!-- done -->
+    <module>spring-boot-demo-upload</module> <!-- done -->
+    <module>spring-boot-demo-cache-redis</module> <!-- done -->
+    <module>spring-boot-demo-cache-ehcache</module> <!-- done -->
+    <module>spring-boot-demo-email</module> <!-- TODO -->
+    <module>spring-boot-demo-task</module> <!-- done -->
+    <module>spring-boot-demo-task-quartz</module> <!-- done -->
+    <module>spring-boot-demo-task-xxl-job</module> <!-- TODO -->
+    <module>spring-boot-demo-swagger</module> <!-- done -->
+    <module>spring-boot-demo-swagger-beauty</module> <!-- done -->
+    <module>spring-boot-demo-rbac-security</module> <!-- TODO -->
+    <module>spring-boot-demo-rbac-shiro</module> <!-- TODO -->
+    <module>spring-boot-demo-session</module> <!-- session in redis -->
+    <module>spring-boot-demo-oauth</module> <!-- TODO -->
+    <module>spring-boot-demo-social</module> <!-- TODO -->
     <module>spring-boot-demo-zookeeper</module>
     <module>spring-boot-demo-mq-rabbitmq</module>
     <module>spring-boot-demo-mq-rocketmq</module>
     <module>spring-boot-demo-mq-kafka</module>
-    <module>spring-boot-demo-websocket</module>
+    <module>spring-boot-demo-websocket</module> <!-- why we prefix for WebSocketConfig -->
     <module>spring-boot-demo-websocket-socketio</module>
-    <module>spring-boot-demo-ureport2</module>
-    <module>spring-boot-demo-uflo</module>
-    <module>spring-boot-demo-urule</module>
+    <module>spring-boot-demo-ureport2</module> <!-- no code here -->
+    <module>spring-boot-demo-uflo</module> <!-- no code here -->
+    <module>spring-boot-demo-urule</module> <!-- no code here -->
     <module>spring-boot-demo-activiti</module>
     <module>spring-boot-demo-async</module>
     <module>spring-boot-demo-dubbo</module>
